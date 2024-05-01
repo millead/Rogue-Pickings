@@ -1,0 +1,132 @@
+/******** GLOBAL STYLES ********/
+body {
+    
+
+}
+
+h1,
+h2,
+h3,
+h4 {
+
+}
+
+h1 {
+ 
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+p {
+
+}
+
+.content-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+
+}
+
+/******** HEADER STYLES ********/
+header h1 {
+    
+    width: 300px;
+    float: left; 
+}
+
+header h1 span {
+
+}
+
+header nav {
+    
+    width: 300px;
+    float: right;
+}
+
+header nav ul {
+
+}
+
+header nav ul li {
+    display: inline-block;
+
+}
+
+header nav ul li a {
+    
+
+}
+
+/********  MAIN STYLES ********/
+/******** TOP SECTION ********/
+.main-image img {
+
+}
+
+.main-title h2 {
+
+}
+
+/******** BOTTOM SECTION ********/
+.bottom-section .content-wrapper {
+
+}
+
+.section-one,
+.section-two,
+.section-three {
+    
+    box-sizing: border-box;
+    float: left;
+    
+    
+    
+    
+
+}
+
+.section-one {
+    width: 350px;
+}
+
+.section-two {
+    width: 500px;
+}
+
+.section-three {
+    width: 350px;
+}
+
+.bottom-section h3 {
+
+}
+
+.menu-list {
+
+}
+
+.menu-list li {
+
+}
+
+/******** FOOTER STYLES ********/
+footer {
+    text-align:center;
+
+}
+
+footer span {
+
+}
